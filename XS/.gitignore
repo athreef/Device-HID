@@ -1,0 +1,11 @@
+blib/
+.build/
+_Inline/
+*.sw*
+.DS_Store
+Device-HID-XS-*/
+Device-HID-XS-*.tar.gz
+XS.bs
+XS.c
+
+
